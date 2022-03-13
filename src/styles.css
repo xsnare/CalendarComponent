@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.days {
+  display: grid;
+  grid-template-columns: repeat(7, 50px);
+}
+
+.select {
+  background-color: rgba(255, 0, 0, 0.165);
+}
+
+.wknd {
+  color: #999;
+}
+
+.from-to p {
+  margin: 8px 0;
+}
